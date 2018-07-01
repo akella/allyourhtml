@@ -1,0 +1,111 @@
+[
+{
+	"id": 54,
+	"title": "Полет в тоннеле",
+	"url": "ERhMZiXwM9w",
+	"tags" : ["threejs"],
+	"description": "Декомпиляция сайта http://archiviostoricoexperience.gruppotim.it ",
+	"img": "54.png",
+	"demo": "http://cssing.org.ua/examples/tunnel/",
+	"github": "https://github.com/akella/tunnel",
+	"video": ""
+},
+
+{
+	"id": 53,
+	"title": "Концентрические кривые и галактика",
+	"url": "4x6wAFggne8",
+	"tags" : ["canvas","2d","threejs","perlin"],
+	"description": "декомпиляция сайта http://azarclub.fr , 2d анимация, + three.js с 2d канвас",
+	"img": "53.png",
+	"demo": "http://cssing.org.ua/examples/azar/",
+	"github": "https://github.com/akella/azar",
+	"video": ""
+},
+
+{
+	"id": 52,
+	"title": "Параллакс на шейдере с сайта antoni.de",
+	"url": "gVux7uitsow",
+	"tags" : ["glsl","math","threejs"],
+	"description": "Параллакс шторки с сайта http://antoni.de  на glsl, и плавный кастомный скролл",
+	"img": "52.png",
+	"demo": "http://cssing.org.ua/examples/antoni.de/",
+	"github": "https://github.com/akella/antoni.de/",
+	"video": ""
+},
+
+{
+	"id": 51,
+	"title": "Соединённые частицы в 3д",
+	"url": "WVTLnYL84hQ",
+	"tags" : ["math","threejs"],
+	"description": "Соединяющиеся частицы в 3д на three.js",
+	"img": "51.png",
+	"demo": "http://cssing.org.ua/examples/particles/",
+	"github": "https://github.com/akella/particlesconnected/",
+	"video": ""
+},
+
+
+{
+	"id": 50,
+	"title": "Простой generative art на 2d canvas",
+	"url": "XWjdaCsj48M",
+	"tags" : ["canvas","2d"],
+	"description": "Generative art idea by @n_disorder, и забавный прием с SVG фоном",
+	"img": "50.png",
+	"demo": "http://cssing.org.ua/examples/lerpy/",
+	"github": "https://github.com/akella/lerpy/",
+	"video": ""
+},
+
+{
+	"id": 49,
+	"title": "Простой шейдер для волн",
+	"url": "Qpuc_W-szEw",
+	"tags" : ["threejs","glsl"],
+	"description": "Простой шейдер с волнами, Ван Даммом, и еще немного волнами, декомпиляция сайта https://www.barovier.com",
+	"img": "49.png",
+	"demo": "http://cssing.org.ua/examples/barovier/",
+	"github": "https://github.com/akella/barovier/",
+	"video": ""
+},
+
+
+{
+	"id": 48,
+	"title": "Анимация с сайта taotajima.jp на шейдерах и скролле",
+	"url": "I9A4xTT2rh0",
+	"tags" : ["threejs","glsl","math"],
+	"description": "декомпиляция сайта http://taotajima.jp  сделанного в @homuculu, фрагмент шейдер, инерционный скролл",
+	"img": "48.png",
+	"demo": "http://cssing.org.ua/examples/tao/",
+	"github": "https://github.com/akella/taotajima.jp/",
+	"video": ""
+},
+
+{
+	"id": 47,
+	"title": "Vue.js анимации + 100 тысяч частиц на WebGL",
+	"url": "XjZ9iu_Z9G8",
+	"tags" : ["threejs","glsl","math","vuejs","nuxt"],
+	"description": "Длинный стрим про Vue.js (Nuxt) анимации, интегрированные с  WebGL анимацией ста тысяч частиц",
+	"img": "47.png",
+	"demo": "http://cssing.org.ua/examples/vuegl/",
+	"github": "https://github.com/akella/vuegl/",
+	"video": ""
+},
+
+{
+	"id": 46,
+	"title": "Верстка на vue.js",
+	"url": "yTtBw3BIntI",
+	"tags" : ["vuejs","css","html"],
+	"description": "Базовый vue.js для того чтобы верстать макет",
+	"img": "40.png",
+	"demo": "",
+	"github": "https://github.com/akella/vue-first/",
+	"video": ""
+}
+]
