@@ -1,5 +1,11 @@
 [
 {
+	"id": 55,
+	"title": "Каталог стримов на Vue.js + Nuxt",
+	"url": "https://www.youtube.com/watch?v=HSbj0dKErtY"
+},
+
+{
 	"id": 54,
 	"title": "Полет в тоннеле",
 	"url": "ERhMZiXwM9w",
@@ -106,6 +112,604 @@
 	"img": "40.png",
 	"demo": "",
 	"github": "https://github.com/akella/vue-first/",
+	"video": ""
+},
+
+{
+	"id": 45,
+	"raw": "Демо: http://cssing.org.ua/examples/zebraРепа: Оригинал: https://vexor.io/Мой сетап: https://gist.github.com/akella/7ffe8c...Блог: http://cssing.org.ua/Facebook: http://facebook.com/akellaTwitter: http://twitter.com/akellaПоддержать: https://www.patreon.com/allyourhtml", 
+	"title": "Полосатые объекты на кривых и шейдерах",
+	"url": "VYpcD6yRkQE",
+	"tags" : [],
+	"description": "",
+	"img": "45.png",
+	"demo": "",
+	"github": "https://github.com/akella/zebra",
+	"video": ""
+},
+
+{
+	"id": 44,
+	"raw": "Демо: http://cssing.org.ua/examples/hajimew...Репа: https://github.com/akella/hajimewatanabeОригинал: http://hajimewatanabe.jpМой сетап: https://gist.github.com/akella/7ffe8c...Блог: http://cssing.org.ua/Facebook: http://facebook.com/akellaTwitter: http://twitter.com/akellaПоддержать: https://www.patreon.com/allyourhtml", 
+	"title": "Волны и эффект преломления на вертекс-фрагмент шейдерах",
+	"url": "hChWdAgJr58&t=28s",
+	"tags" : [],
+	"description": "",
+	"img": "44.png",
+	"demo": "",
+	"github": "",
+	"video": ""
+},
+
+{
+	"id": 43,
+	"raw": "Демо: http://cssing.org.ua/examples/letters...Репа: https://github.com/akella/letters-wit...Референс: https://patrickheng.com/Мой сетап: https://gist.github.com/akella/7ffe8c...Блог: http://cssing.org.ua/Facebook: http://facebook.com/akellaTwitter: http://twitter.com/akellaПоддержать: https://www.patreon.com/allyourhtml", 
+	"title": "Буквы с физикой",
+	"url": "ha6dpKnmPOo",
+	"tags" : [],
+	"description": "",
+	"img": "43.png",
+	"demo": "",
+	"github": "",
+	"video": ""
+},
+
+{
+	"id": 42,
+	"raw": "Демо: http://cssing.org.ua/examples/3demojiРепа: https://github.com/akella/3demojiМой сетап: https://gist.github.com/akella/7ffe8c...Блог: http://cssing.org.ua/Facebook: http://facebook.com/akellaTwitter: http://twitter.com/akellaПоддержать: https://www.patreon.com/allyourhtml", 
+	"title": "3d Emoji анимация на GPU и синусах",
+	"url": "WzLg2K6T7XI",
+	"tags" : [],
+	"description": "",
+	"img": "42.png",
+	"demo": "",
+	"github": "",
+	"video": ""
+},
+
+{
+	"id": 41,
+	"raw": "Демо: http://cssing.org.ua/examples/asciiРепа: https://github.com/akella/asciiОрининал: https://ertdfgcvb.xyz/Мой сетап: https://gist.github.com/akella/7ffe8c...Блог: http://cssing.org.ua/Facebook: http://facebook.com/akellaTwitter: http://twitter.com/akellaПоддержать: https://www.patreon.com/allyourhtml", 
+	"title": "ASCII анимация",
+	"url": "1TDAgF_S7ys",
+	"tags" : [],
+	"description": "",
+	"img": "41.png",
+	"demo": "",
+	"github": "",
+	"video": ""
+},
+
+{
+	"id": 40,
+	"raw": "Анимация частичек с сайта http://murmure.me (original)My first try with english speaking stream, getting out of comfort zone.Demo: http://cssing.org.ua/examples/murmureRepo: http://github.com/akella/murmure.meSetup: https://gist.github.com/akella/7ffe8c...Blog: http://cssing.org.ua/Facebook: http://facebook.com/akellaTwitter: http://twitter.com/akellaSupport: https://www.patreon.com/allyourhtml", 
+	"title": "Decompiled animation from murmure.me website",
+	"url": "AERIjhFzuaI",
+	"tags" : [],
+	"description": "",
+	"img": "40.png",
+	"demo": "",
+	"github": "",
+	"video": ""
+},
+
+{
+	"id": 39,
+	"raw": "Простой стримчик про лайфхак с gsap, и технологию CSS Paint что появляется в новом хроме уже сейчас.Демо: http://cssing.org.ua/examples/houdiniРепо: http://github.com/akella/houdiniСпека: https://drafts.css-houdini.org/Мой сетап: https://gist.github.com/akella/7ffe8c...Блог: http://cssing.org.ua/Facebook: http://facebook.com/akellaTwitter: http://twitter.com/akellaПоддержать: https://www.patreon.com/allyourhtml", 
+	"title": "Houdini и лайфхак с greensock",
+	"url": "oxyBJMmHbSI",
+	"tags" : [],
+	"description": "",
+	"img": "39.png",
+	"demo": "",
+	"github": "",
+	"video": ""
+},
+
+{
+	"id": 38,
+	"raw": "Прошу прощения ребята за качество интернета, постараюсь в будущем делать запись и выкладывать ее вместо стрима :(. Надеюсь это не доставит неудобств при просмотре.Демо: cssing.org.ua/examples/planesКод: https://github.com/akella/planesКватернионы: http://www.euclideanspace.com/maths/g...Оригинальная анимация: https://medium.com/@activetheory/pape...Мой сетап: https://gist.github.com/akella/7ffe8c...Блог: http://cssing.org.ua/Facebook: http://facebook.com/akellaTwitter: http://twitter.com/akellaПоддержать: https://www.patreon.com/allyourhtml", 
+	"title": "Самолётики, кривые, кватернионы",
+	"url": "d3JGRn0llqM",
+	"tags" : [],
+	"description": "",
+	"img": "38.png",
+	"demo": "",
+	"github": "",
+	"video": ""
+},
+
+{
+	"id": 37,
+	"raw": "Демо: http://cssing.org.ua/examples/earthwo...Текстуры для земли: http://planetpixelemporium.com/earth....Репо: https://github.com/akella/earthВдохновение fonterra.com/nz/en/campaign/from-here-to-everywhere.html#/homeМой сетап: https://gist.github.com/akella/7ffe8c...Блог: http://cssing.org.ua/Facebook: http://facebook.com/akellaTwitter: http://twitter.com/akellaПоддержать: https://www.patreon.com/allyourhtml", 
+	"title": "Земля, координаты, кватернионы, Лида",
+	"url": "8Xzwc-hSOvw&t=3003s",
+	"tags" : [],
+	"description": "",
+	"img": "37.png",
+	"demo": "",
+	"github": "",
+	"video": ""
+},
+
+{
+	"id": 36,
+	"raw": "Демо: http://cssing.org.ua/examples/shaderf...Репо: https://github.com/akella/shader-flameВдохновение https://twitter.com/minionsart/status...Мой сетап: https://gist.github.com/akella/7ffe8c...Блог: http://cssing.org.ua/Facebook: http://facebook.com/akellaTwitter: http://twitter.com/akellaПоддержать: https://www.patreon.com/allyourhtml", 
+	"title": "Огонь на шейдерах и шуме",
+	"url": "l7xy3iMYsuQ",
+	"tags" : [],
+	"description": "",
+	"img": "36.png",
+	"demo": "",
+	"github": "",
+	"video": ""
+},
+
+{
+	"id": 35,
+	"raw": "Код и дамп: https://github.com/akella/jetro-wpМой сетап: https://gist.github.com/akella/7ffe8c...Блог: http://cssing.org.ua/Facebook: http://facebook.com/akellaTwitter: http://twitter.com/akellaПоддержать: https://www.patreon.com/allyourhtml", 
+	"title": "Wordpress минисайт с нуля за час",
+	"url": "PrvilFct91I",
+	"tags" : [],
+	"description": "",
+	"img": "35.png",
+	"demo": "",
+	"github": "",
+	"video": ""
+},
+
+{
+	"id": 34,
+	"raw": "Демо: http://cssing.org.ua/examples/lottapa...Репо: https://github.com/akella/wholelottap...Оригинальная анимация: https://www.clicktorelease.com/code/c...Мой сетап: https://gist.github.com/akella/7ffe8c...Блог: http://cssing.org.ua/Facebook: http://facebook.com/akellaTwitter: http://twitter.com/akellaПоддержать: https://www.patreon.com/allyourhtml", 
+	"title": "GPU анимация 400к частиц",
+	"url": "QGMygnzlifk",
+	"tags" : [],
+	"description": "",
+	"img": "34.png",
+	"demo": "",
+	"github": "",
+	"video": ""
+},
+
+{
+	"id": 33,
+	"raw": "Демо: http://cssing.org.ua/examples/fullpag... (на базе фулпейдж скролла из https://youtu.be/SmaeS_U366M 23-го стрима)Репо: https://github.com/akella/angled-scro...Оригинал: https://www.nicolasriciotti.com/clien...Мой сетап: https://gist.github.com/akella/7ffe8c...Блог: http://cssing.org.ua/Facebook: http://facebook.com/akellaTwitter: http://twitter.com/akellaПоддержать: https://www.patreon.com/allyourhtml", 
+	"title": "Анимация косых фонов на PIXI.js и clip:rect,",
+	"url": "WScZAbi8A_Y",
+	"tags" : [],
+	"description": "",
+	"img": "33.png",
+	"demo": "",
+	"github": "",
+	"video": ""
+},
+
+{
+	"id": 32,
+	"raw": "Демо: https://cdn.rawgit.com/akella/waveima...Репо: https://github.com/akella/waveimages/Откуда эффект:http://xtian.design/https://droledemonsieur.com/ (сейчас редизайнят)Мой сетап: https://gist.github.com/akella/7ffe8c...Блог: http://cssing.org.ua/Facebook: http://facebook.com/akellaTwitter: http://twitter.com/akellaПоддержать: https://www.patreon.com/allyourhtml", 
+	"title": "Волнистые картинки на PIXI.JS",
+	"url": "WuRQkLYgPTo",
+	"tags" : [],
+	"description": "",
+	"img": "32.png",
+	"demo": "",
+	"github": "",
+	"video": ""
+},
+
+{
+	"id": 31,
+	"raw": "Случился факап в начале, я поставил музыку пока решал, она под копирайтом, потому 10 минут удалил, сорри. Репо с кодом: https://github.com/akella/jetroМой сетап: https://gist.github.com/akella/7ffe8c...Блог: http://cssing.org.ua/Facebook: http://facebook.com/akellaTwitter: http://twitter.com/akellaПоддержать: https://www.patreon.com/allyourhtml", 
+	"title": "Вёрстка простого макета и общение",
+	"url": "IJ5qDr7DWew&t=5097s",
+	"tags" : [],
+	"description": "",
+	"img": "31.png",
+	"demo": "",
+	"github": "",
+	"video": ""
+},
+
+{
+	"id": 30,
+	"raw": "Демо: https://cdn.rawgit.com/akella/3dgrid/...Демо финальное: https://cdn.rawgit.com/akella/3dgrid/...Репо: https://github.com/akella/3dgrid/Мой сетап: https://gist.github.com/akella/7ffe8c...Блог: http://cssing.org.ua/Facebook: http://facebook.com/akellaTwitter: http://twitter.com/akellaПоддержать: https://www.patreon.com/allyourhtml", 
+	"title": "3D сетка с помощью линий и шейдеров",
+	"url": "RKjfryYz1qY",
+	"tags" : [],
+	"description": "",
+	"img": "30.png",
+	"demo": "",
+	"github": "",
+	"video": ""
+},
+
+{
+	"id": 29,
+	"raw": "Демо: https://codepen.io/akella/pen/zpwmgwисторию с размножением и смертью нужно развить и сбалансировать еще :)Мой сетап: https://gist.github.com/akella/7ffe8c...Блог: http://cssing.org.ua/Facebook: http://facebook.com/akellaTwitter: http://twitter.com/akella", 
+	"title": "Жидкие частицы, SVG + Canvas",
+	"url": "CakNmQEmf1I",
+	"tags" : [],
+	"description": "",
+	"img": "29.png",
+	"demo": "",
+	"github": "",
+	"video": ""
+},
+
+{
+	"id": 28,
+	"raw": "Репозиторий (включая базовую версию): https://github.com/akella/3dshaders/Демо: https://cdn.rawgit.com/akella/3dshade...Оригинал: https://www.sequence.co.uk/Мой сетап: https://gist.github.com/akella/7ffe8c...Блог: http://cssing.org.ua/Facebook: http://facebook.com/akellaTwitter: http://twitter.com/akella", 
+	"title": "Шейдеры, триангуляция, освещение, физика.",
+	"url": "F5iydF5mreI&t=1599s",
+	"tags" : [],
+	"description": "",
+	"img": "28.png",
+	"demo": "",
+	"github": "",
+	"video": ""
+},
+
+{
+	"id": 27,
+	"raw": "Инстаграм звезды: https://www.instagram.com/leeedali/Youtube канал ассистента: https://www.youtube.com/channel/UCw4d...Анимация: https://codepen.io/akella/pen/OzyqKPМой сетап: https://gist.github.com/akella/7ffe8c...Блог: http://cssing.org.ua/Facebook: http://facebook.com/akellaTwitter: http://twitter.com/akella", 
+	"title": "Новогодняя анимация с Лидой",
+	"url": "qxTPZiL2s9U",
+	"tags" : [],
+	"description": "",
+	"img": "27.png",
+	"demo": "",
+	"github": "",
+	"video": ""
+},
+
+{
+	"id": 26,
+	"raw": "Демо: https://cdn.rawgit.com/akella/masks/6...Код: https://github.com/akella/masks/Оригинал: https://supercrowds.co/Мой сетап: https://gist.github.com/akella/7ffe8c...Блог: http://cssing.org.ua/Facebook: http://facebook.com/akellaTwitter: http://twitter.com/akella", 
+	"title": "SVG и WebGL маски",
+	"url": "krSHZddzZPI",
+	"tags" : [],
+	"description": "",
+	"img": "26.png",
+	"demo": "",
+	"github": "",
+	"video": ""
+},
+
+{
+	"id": 25,
+	"raw": "Демо: https://cdn.rawgit.com/akella/lines3d...Код: https://github.com/akella/lines3d/Еще один стрим про THREE.JS откуда я брал кусочек кода:  https://www.youtube.com/watch?v=Q9BXG...Мой сетап: https://gist.github.com/akella/7ffe8c...Блог: http://cssing.org.ua/Facebook: http://facebook.com/akellaTwitter: http://twitter.com/akella", 
+	"title": "Рисуем фото линиями в 3d, three.js",
+	"url": "D2SRg5qh9oo",
+	"tags" : [],
+	"description": "",
+	"img": "25.png",
+	"demo": "",
+	"github": "",
+	"video": ""
+},
+
+{
+	"id": 24,
+	"raw": "Демо: https://rawgit.com/akella/scrollo/mas...Оригинальный сайт https://badassfilms.tvКод: https://github.com/akella/scrollo/Мой сетап: https://gist.github.com/akella/7ffe8c...Блог: http://cssing.org.ua/Facebook: http://facebook.com/akellaTwitter: http://twitter.com/akella", 
+	"title": "Кастомный скролл и css свойство clip",
+	"url": "JQMryV9X1R4",
+	"tags" : [],
+	"description": "",
+	"img": "24.png",
+	"demo": "",
+	"github": "",
+	"video": ""
+},
+
+{
+	"id": 23,
+	"raw": "Демо: https://cdn.rawgit.com/akella/fullpag...Уже после записи скопипастил в него для примера анимацию SVG из #21 стримаКод: https://github.com/akella/fullpage/Мой сетап: https://gist.github.com/akella/7ffe8c...Блог: http://cssing.org.ua/Facebook: http://facebook.com/akellaTwitter: http://twitter.com/akella", 
+	"title": "Лендинг с полноэкранным скроллом и анимациями на PubSub",
+	"url": "SmaeS_U366M",
+	"tags" : [],
+	"description": "",
+	"img": "23.png",
+	"demo": "",
+	"github": "",
+	"video": ""
+},
+
+{
+	"id": 22,
+	"raw": "Результат: https://codepen.io/akella/full/gXaNdv/Твиттер что меня вдохновил на это https://twitter.com/beesandbombsМой сетап: https://gist.github.com/akella/7ffe8c...Блог: http://cssing.org.ua/Facebook: http://facebook.com/akellaTwitter: http://twitter.com/akella", 
+	"title": "Анимация «Мандала» или как рисовать синусами и вдохновляться",
+	"url": "MoEjp5E5tBs",
+	"tags" : [],
+	"description": "",
+	"img": "22.png",
+	"demo": "",
+	"github": "",
+	"video": ""
+},
+
+{
+	"id": 21,
+	"raw": "В этом стриме сделал анимации для http://css-live.ru сайтаДемо: https://cdn.rawgit.com/akella/csslive...27:28 - начало анимаций SVG кривыхМой сетап: https://gist.github.com/akella/7ffe8c...Блог: http://cssing.org.ua/Facebook: http://facebook.com/akellaTwitter: http://twitter.com/akella", 
+	"title": "SVG кривые и анимация лого css-live.ru на snap.svg",
+	"url": "2N1MP44OvN8&t=21s",
+	"tags" : [],
+	"description": "",
+	"img": "21.png",
+	"demo": "",
+	"github": "",
+	"video": ""
+},
+
+{
+	"id": 20,
+	"raw": "В этом стриме разбирал PIXI и pixi-filters.И немного про Gulp Sass таску я рассказал в 1:05:02Демо из стрима: https://cdn.rawgit.com/akella/pixi-fi...Репозиторий https://github.com/akella/pixi-filtersОригинальный сайт: https://inculerate.com/Мой сетап: https://gist.github.com/akella/7ffe8c...Блог: http://cssing.org.ua/Facebook: http://facebook.com/akellaTwitter: http://twitter.com/akella", 
+	"title": "Рисуем эффекты на PIXI и его фильтрах (ака шейдерах), и немного про gulp sass",
+	"url": "8DH13eslS3U",
+	"tags" : [],
+	"description": "",
+	"img": "20.png",
+	"demo": "",
+	"github": "",
+	"video": ""
+},
+
+{
+	"id": 19,
+	"raw": "Летом я любил слушать джаз и смотреть на ласточек в небе, и мне захотелось это нарисовать, под музыку.Результат: https://cdn.rawgit.com/akella/swallow...Репозиторий: https://github.com/akella/swallowmusicО мелодии что я использовал https://en.wikipedia.org/wiki/The_Blu...Где вы могли ее слышать: https://www.youtube.com/watch?v=xyjOj...Или почти везде, это одна из самых популярных мелодий ever.Мой сетап: https://gist.github.com/akella/7ffe8c...Блог: http://cssing.org.ua/Facebook: http://facebook.com/akellaTwitter: http://twitter.com/akella", 
+	"title": "Ласточки в небе под Штрауса",
+	"url": "fU-vywo5BKM",
+	"tags" : [],
+	"description": "",
+	"img": "19.png",
+	"demo": "",
+	"github": "",
+	"video": ""
+},
+
+{
+	"id": 18,
+	"raw": "Демо: https://cdn.rawgit.com/akella/letters...(я добавил немного анимаций которые планировал в стриме уже после стрима, так как началась конференция в зале)Гитхаб: https://github.com/akella/lettersВдохновлено: cuberto.ruМой сетап: https://gist.github.com/akella/7ffe8c...Блог: http://cssing.org.ua/Twitter: http://twitter.com/akella", 
+	"title": "intersectionObserver и SVG анимация маски",
+	"url": "Y6dbEGjgjD8&t=1s",
+	"tags" : [],
+	"description": "",
+	"img": "18.png",
+	"demo": "",
+	"github": "",
+	"video": ""
+},
+
+{
+	"id": 17,
+	"raw": "Демо: https://cdn.rawgit.com/akella/perlin/...Гитхаб: https://github.com/akella/perlinМой сетап: https://gist.github.com/akella/7ffe8c...Блог: http://cssing.org.ua/Twitter: http://twitter.com/akella", 
+	"title": "Perlin Noise, 1d, 2d, 3d",
+	"url": "xN_KOacUDhU",
+	"tags" : [],
+	"description": "",
+	"img": "17.png",
+	"demo": "",
+	"github": "",
+	"video": ""
+},
+
+{
+	"id": 16,
+	"raw": "Демо: https://cdn.rawgit.com/akella/iphonex...Гитхаб: https://github.com/akella/iphonexОригинал: https://www.apple.com/iphone-x/Мой сетап: https://gist.github.com/akella/7ffe8c...Блог: http://cssing.org.ua/Twitter: http://twitter.com/akella", 
+	"title": "Анимации по скроллу с сайта iPhoneX",
+	"url": "-EdessdvqSY",
+	"tags" : [],
+	"description": "",
+	"img": "16.png",
+	"demo": "",
+	"github": "",
+	"video": ""
+},
+
+{
+	"id": 15,
+	"raw": "Демо: https://cdn.rawgit.com/akella/pjax/41...Репозиторий: https://github.com/akella/pjaxРеференс: http://www.buildinamsterdam.com/cases/Мой сетап: https://gist.github.com/akella/7ffe8c...Блог: http://cssing.org.ua/Twitter: http://twitter.com/akella", 
+	"title": "Плавные переходы между страницами с Barba.js (PJAX)",
+	"url": "pwmHB_veoko",
+	"tags" : [],
+	"description": "",
+	"img": "15.png",
+	"demo": "",
+	"github": "",
+	"video": ""
+},
+
+{
+	"id": 14,
+	"raw": "Вживую: https://cdn.rawgit.com/akella/graphs/...Три варианта: Snap.svg, Canvas, Canvas+Noise.Репозиторий https://github.com/akella/graphs/Мой сетап: https://gist.github.com/akella/7ffe8c...Блог: http://cssing.org.ua/Twitter: http://twitter.com/akella", 
+	"title": "Анимируем графики на SVG и Canvas, + perlin noise",
+	"url": "M7NGYXMp4JM",
+	"tags" : [],
+	"description": "",
+	"img": "14.png",
+	"demo": "",
+	"github": "",
+	"video": ""
+},
+
+{
+	"id": 13,
+	"raw": "Результат вживую https://cdn.rawgit.com/akella/dots-an...репозиторий с результатом https://github.com/akella/dots-animationОригинальный сайт https://noni.cmiscm.com/", 
+	"title": "Анимируем SVG в 3D с помощью Three.js",
+	"url": "Q9BXGh9sdZw",
+	"tags" : [],
+	"description": "",
+	"img": "13.png",
+	"demo": "",
+	"github": "",
+	"video": ""
+},
+
+{
+	"id": 12,
+	"raw": "Чтобы не мучить людей проблемами с португальским интернетом я просто записал стрим заново.Код здесь https://github.com/akella/stream12Статья: https://robots.thoughtbot.com/how-to-...Мой сетап: https://gist.github.com/akella/7ffe8c...Блог: http://cssing.org.ua/Twitter: http://twitter.com/akella", 
+	"title": "#2 Chrome Extension для показа FPS",
+	"url": "GFNnPMlIzoQ",
+	"tags" : [],
+	"description": "",
+	"img": "12.png",
+	"demo": "",
+	"github": "",
+	"video": ""
+},
+
+{
+	"id": 12,
+	"raw": "Окончание видео https://youtu.be/GFNnPMlIzoQЧтобы не мучить людей проблемами с португальским интернетом я просто записал стрим заново.Код здесь https://github.com/akella/stream12Статья: https://robots.thoughtbot.com/how-to-...Мой сетап: https://gist.github.com/akella/7ffe8c...Блог: http://cssing.org.ua/Twitter: http://twitter.com/akella", 
+	"title": "#1 Chrome Extension для показа FPS",
+	"url": "isRIUNTiTi8",
+	"tags" : [],
+	"description": "",
+	"img": "12.png",
+	"demo": "",
+	"github": "",
+	"video": ""
+},
+
+{
+	"id": 11,
+	"raw": "В начале стрима я случайно отправлял видео низкого битрейта, потому в записанной версии не осталось приветствия и рассказа о сгоревшем ноуте :)http://github.com/akella/stream11 весь код со стримаВ этом стриме две анимации, окончание прошлой с треугольниками и новая с глитчемТреугольники: https://cdn.rawgit.com/akella/stream1...Glitch: https://rawgit.com/akella/stream11/ma...00:00 Вспоминаю что был за код в прошлый раз02:00 доделываю анимацию24:20 анимация глитча на шейдерах и PIXIhttps://gist.github.com/akella/7ffe8c...Мой тви: http://twitter.com/akellaМой блог: http://cssing.org.ua", 
+	"title": "Треугольники с физикой и Glitch на шейдерах",
+	"url": "MXOYkZ59-zE",
+	"tags" : [],
+	"description": "",
+	"img": "11.png",
+	"demo": "",
+	"github": "",
+	"video": ""
+},
+
+{
+	"id": 10,
+	"raw": "В этом стриме я играл в Code In The Dark, сделал акварель эффект, и триангуляцию для будущих анимацийВесь код тут: https://github.com/akella/stream10/ (акварель, треугольники и задача для верстки вслепую)Верстка вслепую: https://cdn.rawgit.com/akella/stream1...Акварель: https://cdn.rawgit.com/akella/stream1...Треугольники: https://cdn.rawgit.com/akella/stream1...Коллекция моих задач для code in the dark https://github.com/akella/codeintheda...План видео:4:10 - начал играть в Code in the dark19:17 - результат24:00 - делаю анимацию акварели42:27 - dat.gui49:20 - триангуляция, заготовка для следующих стримов,Мой сетап: https://gist.github.com/akella/7ffe8c...Мой тви: http://twitter.com/akellaМой блог: http://cssing.org.ua", 
+	"title": "Code In The Dark, акварель, и триангуляция",
+	"url": "TIz8KXsrdp0",
+	"tags" : [],
+	"description": "",
+	"img": "10.png",
+	"demo": "",
+	"github": "",
+	"video": ""
+},
+
+{
+	"id": 9,
+	"raw": "Показал как делать мультиязычные файлы в Gulp, и разобрал анимацию с сайта https://www.roninamsterdam.com/Весь результат тут https://github.com/akella/multilang-t...Анимация вживую https://cdn.rawgit.com/akella/multila...00:00 - Делаю мультиязычность для Gulp32:28 - начал делать анимациюМой сетап: https://gist.github.com/akella/7ffe8c...Блог: http://cssing.org.ua/Twitter: http://twitter.com/akella", 
+	"title": "Многоязычность в Gulp и трюк с канвас анимацией",
+	"url": "o2MR8GDZH2s",
+	"tags" : [],
+	"description": "",
+	"img": "9.png",
+	"demo": "",
+	"github": "",
+	"video": ""
+},
+
+{
+	"id": 8,
+	"raw": "Результат тут https://github.com/akella/gulp-amp0:00 - Настройка Gulp32:00 - Верстка AMP страницы.1:22:17 - Трогаю себя и медведя за носМой сетап: https://gist.github.com/akella/7ffe8c...Twitter: http://twitter.com/akellaБлог: http://cssing.org.ua", 
+	"title": "Gulp и верстка простой AMP страницы",
+	"url": "ejOPpUNxXu4",
+	"tags" : [],
+	"description": "",
+	"img": "8.png",
+	"demo": "",
+	"github": "",
+	"video": ""
+},
+
+{
+	"id": 7,
+	"raw": "РезультатыCSS Mask + Canvas2Dhttps://cdn.rawgit.com/akella/distort...Codepen: https://codepen.io/akella/pen/yXrxVaWebGL+ SVG https://cdn.rawgit.com/akella/distort...Репо: https://github.com/akella/distort/Оригинальный сайт с эффектом: https://engzell.me/План видео:2:40 - Переносим в код эффект на CSS Mask10:50 - Делаем ту же анимацию на Канвас23:20 - Начинаем делать дисторт на Pixi35:00 - 44:00 - Тут я затупил, с autoDetectRenderer, можно промотать :)1:05:00 - Закончили дисторт1:06:00 - 1:08:30 - Сделал аналог на SVG Displacement фильтреМой сетап: https://gist.github.com/akella/7ffe8c...Мой тви: http://twitter.com/akellaБлог: http://cssing.org.ua", 
+	"title": "Distortion with WebGL, CSS-Canvas masking",
+	"url": "RTYJ1fmYZ3g",
+	"tags" : [],
+	"description": "",
+	"img": "7.png",
+	"demo": "",
+	"github": "",
+	"video": ""
+},
+
+{
+	"id": 6,
+	"raw": "Делаю анимацию на CSS, Canvas и Pixi: https://cdn.rawgit.com/akella/MovingT...Вживую: http://riverco.de/  и http://www.species-in-pieces.com/репозиторий с кодом: https://github.com/akella/MovingTrian...Конвертеры что я использовал:http://cssing.org.ua/svg2percent/http://cssing.org.ua/svg2json/План стрима:03:00 - начал делать на CSS37:00 - начал делать на канвасе1:04:00 - добавил PixiМой сетап: https://gist.github.com/akella/7ffe8c...https://twitter.com/akella подписывайтесь и узнаете про следующие стримыСайт: http://cssing.org.ua", 
+	"title": "Triangles in CSS, Canvas, WebGL",
+	"url": "LNSvO-jJhKg",
+	"tags" : [],
+	"description": "",
+	"img": "6.png",
+	"demo": "",
+	"github": "",
+	"video": ""
+},
+
+{
+	"id": 5,
+	"raw": "Что делали: http://cssing.org.ua/shaders/Текст-желе: https://github.com/akella/jelatextИсходный сайт с эффектом: http://www.durimel.io/works/natural-fnb/Пример шейдера из стрима: https://github.com/akella/SexyFragmen...Пример на живом сайте http://biron.io/Книга про шейдеры: https://thebookofshaders.com/Галерея шейдеров https://www.shadertoy.com/Фото копирайт: https://www.instagram.com/a_mavrin/План видео:00:05 - Делаю желеобразный текст и рассказываю про throttle-debounce16:00 - Начал делать WebGL эффект на шейдерахМой сетап: https://gist.github.com/akella/7ffe8c...Твиттер: http://twitter.com/akellaFacebook: http://facebook.com/akellaБлог: http://cssing.org.ua", 
+	"title": "Sexy Fragment Shader and throttle-debounce",
+	"url": "YEYmYI7ZpQc",
+	"tags" : [],
+	"description": "",
+	"img": "5.png",
+	"demo": "",
+	"github": "",
+	"video": ""
+},
+
+{
+	"id": 4,
+	"raw": "В этом стриме я делаю простую верстку которую оживляем несложными анимациями, а еще я не выспался.  :)Результат https://github.com/akella/spaceМакет отсюда https://dribbble.com/shots/2073113-Sp...04:32 - Начал верстать, весь HTML15:40 - Начал писать CSS40:20 - Начал делать анимации47:30 - Анимация для букв1:00:00 - Игры с mix-blend-mode1:07:06 - Немного про User Timing API, хотя не вышло почему-то :) разберемсяМой сетап: https://gist.github.com/akella/7ffe8c...Мой твиттер: http://twitter.com/akellaБлок: http://cssing.org.ua", 
+	"title": "Various landing page animations with GSAP",
+	"url": "b8P-6DDKU_c",
+	"tags" : [],
+	"description": "",
+	"img": "4.png",
+	"demo": "",
+	"github": "",
+	"video": ""
+},
+
+{
+	"id": 3,
+	"raw": "В этом видео я создаю забавный эффект желе http://cssing.org.ua/jela/jela.htmlВ основном тут javascript и прикладная математика.репозиторий с результатом: https://github.com/akella/ballsКнижка о которой я говорил в стриме https://www.amazon.com/Foundation-HTM...Просто важная гифка: https://giphy.com/gifs/gal-gadot-AoRR...Мой сетап: https://gist.github.com/akella/7ffe8c...Мой тви: http://twitter.com/akellaМой блог: http://cssing.org.uaПоддержать: https://www.patreon.com/allyourhtml", 
+	"title": "Canvas Jelly Effect",
+	"url": "XqB_Ulfpd0w",
+	"tags" : [],
+	"description": "",
+	"img": "3.png",
+	"demo": "",
+	"github": "",
+	"video": ""
+},
+
+{
+	"id": 2,
+	"raw": "Это запись стрима от 11.06.2017 как я верстаю вживую макет https://dribbble.com/shots/2316383-Mi...06:15 – Начало верстки22:05 – Закончил писать HTML27:00 – Начал писать CSS41:20 – Тут я говорю что доделаю все за 10 минут1:02:00 – Закончил CSS для десктопа1:15:00 – Закончил адаптивностьРепозиторий с результатом https://github.com/akella/miamiМой сетап: https://gist.github.com/akella/7ffe8c...Блог: http://cssing.org.ua/Twitter: http://twitter.com/akellaПоддержать меня: https://www.patreon.com/allyourhtml", 
+	"title": "Верстка лендинга за час, почти",
+	"url": "mLVBoH5Dwv0",
+	"tags" : [],
+	"description": "",
+	"img": "2.png",
+	"demo": "",
+	"github": "",
+	"video": ""
+},
+
+{
+	"id": 1,
+	"raw": "В этом видео я делаю анимашку для логотипа https://gfycat.com/EsteemedSoulfulJac...Результат работы в репозитории https://github.com/akella/lurityМой сетап: https://gist.github.com/akella/7ffe8c...Блог: http://cssing.org.ua/Twitter: http://twitter.com/akellaПоддержать: https://www.patreon.com/allyourhtml", 
+	"title": "Logo animation live",
+	"url": "AajoBGoz8TQ",
+	"tags" : [],
+	"description": "",
+	"img": "1.png",
+	"demo": "",
+	"github": "",
 	"video": ""
 }
 ]
