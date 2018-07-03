@@ -1,7 +1,7 @@
 <template>
 
 	<div class="search">
-		<input type="text" v-model="keyword" >
+		<input type="text" v-model="keyword">
 	</div>
 </template>
 
@@ -16,8 +16,8 @@ export default {
     }
   },
   watch: {
-  	keyword(){
-  		this.$emit('handleKeyword',this.keyword);
+  	keyword() {
+  		this.$emit('handleKeyword', this.keyword);
   	}
   }
 };

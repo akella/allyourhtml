@@ -2,6 +2,7 @@
 	<div>
 		<h1>{{title}}</h1>
 		<h2>{{description}}</h2>
+		<iframe :src="'https://www.youtube.com/embed/' + url" frameborder="0" allow="encrypted-media" allowfullscreen></iframe>
 
 		<p><nuxt-link to="/">GO BACK TO STREAMS</nuxt-link></p>
 	</div>
