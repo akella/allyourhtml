@@ -19,6 +19,7 @@
 import MYDATA from '../data/index.json';
 import Stream from '@/components/Stream';
 import Search from '@/components/Search';
+import { debounce } from 'underscore';
 
 export default {
   components: {
@@ -56,9 +57,9 @@ export default {
     }
   },
   methods: {
-    setKeyword(keyword) {
+    setKeyword: debounce(function setKeyword(keyword) {
       this.searchString = keyword;
-    }
+    }, 400),
   }
 };
 </script>

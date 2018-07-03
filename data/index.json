@@ -2,7 +2,13 @@
 {
 	"id": 55,
 	"title": "Каталог стримов на Vue.js + Nuxt",
-	"url": "https://www.youtube.com/watch?v=HSbj0dKErtY"
+	"url": "HSbj0dKErtY",
+	"tags": ["vuejs"],
+	"description": "",
+	"img": "55.png",
+	"demo": "",
+	"github": "https://github.com/akella/allyourhtml",
+	"video": ""
 },
 
 {
@@ -545,7 +551,7 @@
 },
 
 {
-	"id": 12,
+	"id": 12.5,
 	"raw": "Чтобы не мучить людей проблемами с португальским интернетом я просто записал стрим заново.Код здесь https://github.com/akella/stream12Статья: https://robots.thoughtbot.com/how-to-...Мой сетап: https://gist.github.com/akella/7ffe8c...Блог: http://cssing.org.ua/Twitter: http://twitter.com/akella", 
 	"title": "#2 Chrome Extension для показа FPS",
 	"url": "GFNnPMlIzoQ",
