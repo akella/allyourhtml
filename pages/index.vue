@@ -19,6 +19,7 @@
 import MYDATA from '../data/index.json';
 import Stream from '@/components/Stream';
 import Search from '@/components/Search';
+import { debounce } from 'underscore';
 
 export default {
   components: {
@@ -33,21 +34,32 @@ export default {
   },
   computed: {
     searchResultsStreams(){
-      let keyword = this.searchString.toLowerCase();
+      const keyword = this.searchString.toLowerCase();
+      if (!keyword) return this.streams;
+      const splittedKeyword = keyword.split(" ").filter(word => word);
 
-      let results = this.streams.filter(stream=>{
-        if(stream.title.toLowerCase().indexOf(keyword)!==-1) return stream;
-        if(stream.tags.filter(tag=>tag.toLowerCase().indexOf(keyword)!==-1).length>0) return stream;
+      let results = this.streams.filter(stream => {
+        let text = [
+          stream.tags.join(' '),
+          stream.title.toLowerCase(),
+          stream.description.toLowerCase()
+        ].join(' ');
+
+        const matches = splittedKeyword.filter(keyword => text.includes(keyword));
+        if (matches.length === splittedKeyword.length) {
+          return true;
+        }
+        
         return false;
-      })
+      });
 
       return results;
     }
   },
   methods: {
-    setKeyword(keyword) {
+    setKeyword: debounce(function setKeyword(keyword) {
       this.searchString = keyword;
-    }
+    }, 400),
   }
 };
 </script>
